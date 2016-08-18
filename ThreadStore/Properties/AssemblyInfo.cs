@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ThreadStore")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("An implementation for using thread data store.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Stark Teknoloji San. ve Tic. Ltd. Şti.")]
 [assembly: AssemblyProduct("ThreadStore")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
